@@ -4,7 +4,7 @@ title: Bootcamp FAQ
 ---
 *I graduated from Makersquare's 3rd cohort. I really enjoyed the three months I spent in their intensive bootcamp and over the past several months, folks have come to me with questions about my experience. Here are some of the most frequent questions I've been asekd.*
 
-**What was the interview process like? **
+**What was the interview process like?**
 I know that for Makersquare specifically, things have changed a lot since I went into the classroom for my first tour & interview over a year ago. Keep that in mind for everything below: the curriculum, interview process, cohort model, etc have all evolved over the course of the past year since I was a student.
 
 First, I was asked questions about my background, basically prompted to 
