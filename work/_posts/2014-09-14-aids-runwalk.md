@@ -7,6 +7,5 @@ permalink: /work/aid_runwalk.html
 image: aids_runwalk.png
 ---
 
-AIDS Run & Walk 2014
-I know that for Makersquare specifically, things have changed a lot since I went into the classroom for my first tour & interview over a year ago. Keep that in mind for everything below: the curriculum, interview process, cohort model, etc have all evolved over the course of the past year since I was a student.
+AIDS Run & Walk Chicago is an annual event for the AIDS Foundation of Chicago. Here, we used Convio's TeamRaiser platform to build a website that handles donations, registration, and team management for participants. This was my first experience building a TeamRaiser site.
 

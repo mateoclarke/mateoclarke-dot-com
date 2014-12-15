@@ -7,6 +7,5 @@ permalink: /work/casar.html
 image: casar.png
 ---
 
-Casar for Council
-I know that for Makersquare specifically, things have changed a lot since I went into the classroom for my first tour & interview over a year ago. Keep that in mind for everything below: the curriculum, interview process, cohort model, etc have all evolved over the course of the past year since I was a student.
+Casar for Council is a political campaign site for a local community organizer and friend I greatly respect, Greg Casar. This was my first Jekyll site and I utilized Grunt in my workflow. I was also able to link the volunteer form on the landing page to a Google Spreadsheet to make it as easy as possible for the campaign team to keep record of their consituents in a format that was simple for them. This was achieved with Google Scripts. In addition to the Jekyll site, I created a Ghost blog that was easier for other members of the campaign team to moderate themsleves.
 

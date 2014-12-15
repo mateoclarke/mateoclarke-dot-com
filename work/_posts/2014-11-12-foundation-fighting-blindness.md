@@ -1,12 +1,11 @@
 ---
 layout: work_post
 title: Foundation Fighting Blindness
-type: Responsive Site / Custom Drupal Build
+type: Custom Drupal Responsive Build
 site_url: http://drupal.blindness.org
 permalink: /work/ffb.html
 image: ffb.png
 ---
 
-The Foundation Fighting Blindness 
-I know that for Makersquare specifically, things have changed a lot since I went into the classroom for my first tour & interview over a year ago. Keep that in mind for everything below: the curriculum, interview process, cohort model, etc have all evolved over the course of the past year since I was a student.
+The Foundation Fighting Blindness leads national fundraising efforts for research that will provide preventions, treatments and cures for people affected by retinal diseases. Charity Dynamics has been working with them for many years and this site redesign was by first experience building a custom Drupal site. I utlized Gulp & Sass in the early workflow stages. 
 

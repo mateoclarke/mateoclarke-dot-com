@@ -7,6 +7,4 @@ permalink: /work/mmm.html
 image: mmm.gif
 ---
 
-Million Mile Month
-I know that for Makersquare specifically, things have changed a lot since I went into the classroom for my first tour & interview over a year ago. Keep that in mind for everything below: the curriculum, interview process, cohort model, etc have all evolved over the course of the past year since I was a student.
-
+Million Mile Month was my final project as a Makersquare student. It is a Ruby on Rails app that uses the MapMyFitness API to allow user to log their miles towards the community goal of 1 million miles each April. This was a Coding for a Cause project where Makersquare students partner with local nonprofits to build an app that meets an important business need for a real client.

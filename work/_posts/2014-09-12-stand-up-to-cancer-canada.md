@@ -1,12 +1,11 @@
 ---
 layout: work_post
 title: Stand Up To Cancer Canada
-type: Responsive Site / Custom ExpressionEngine Build
+type: Custom ExpressionEngine Build
 site_url: http://standup2cancer.ca/
 permalink: /work/su2c.html
 image: su2c.png
 ---
 
-Stand Up 2 Cancer Canada
-I know that for Makersquare specifically, things have changed a lot since I went into the classroom for my first tour & interview over a year ago. Keep that in mind for everything below: the curriculum, interview process, cohort model, etc have all evolved over the course of the past year since I was a student.
+Stand Up 2 Cancer Canada is a program of the Entertainment Industry Foundation that leverages their partnerships with actors and entertainers to raise funds and awareness for cancer research. The cornerstone of this program is a national telecast hosted by Gwyneth Paltrow and Katie Couric in Los Angeles. In 2014, SU2C also broadcasted from Canada on many of the major Canadian networks. This site was built using ExpressionEngine CMS and was the first experience that anyone at Charity Dynamics had with the platform.
 

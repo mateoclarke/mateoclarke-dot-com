@@ -105,9 +105,18 @@ padding: 1.5rem 0;
 .featured-section {
 	margin-right: 2%;
 }
-.featured-section, .resources-section {
-	float: left;
-	width: 49%;
+@media only screen and (max-width: 60em) {
+	.featured-section, .resources-section {
+		float: left;
+		width: 100%;
+	}
+}
+
+@media only screen and (min-width: 60em) {
+	.featured-section, .resources-section {
+		float: left;
+		width: 49%;
+	}
 }
 
 /* WORK PAGE */
