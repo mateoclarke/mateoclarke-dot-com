@@ -5,6 +5,7 @@ title: Bootcamp FAQ
 *I graduated from Makersquare's 3rd cohort. I really enjoyed the three months I spent in their intensive bootcamp and over the past several months, folks have come to me with questions about my experience. Here are some of the most frequent questions I've been asekd.*
 
 **What was the interview process like?**
+
 I know that for Makersquare specifically, things have changed a lot since I went into the classroom for my first tour & interview over a year ago. Keep that in mind for everything below: the curriculum, interview process, cohort model, etc have all evolved over the course of the past year since I was a student.
 
 First, I was asked questions about my background, basically prompted to 
@@ -26,7 +27,8 @@ topics within the pre-work. Be able to describe why developers use like Git
 and how its related to Github. Know about CSS Floats, Ruby Classes, 
 Javascript variables and string concatenation, etc. I am under the impression they are changing the curriculum to focus on Node.js instead of Rails as a backend. So I would research why the paradigm is shifting towards a full-stack javascript environment.
 
-**I have no previous coding experience (other than a bit of codecademy.com). Did you have previous coding experience?** 
+**I have no previous coding experience (other than a bit of codecademy.com). Did you have previous coding experience?**
+
 My coding experience was very limited before MKS. Because I played music in 
 a couple bands and was involved with some campus organizations that needed 
 a website, I had taught myself how to configuring themed sites with a CMS 
@@ -52,6 +54,7 @@ like Codecademy, Treehouse, Code Wars, Code School, etc
 
 **By the end of 12 weeks, where was your confidence level in terms of being 
 an effective web developer?**
+
 I was confident that I could get either a front-end focused developer job, 
 coding in HTML, CSS & Javascript/jQuery, a junior backend engineer job 
 working with Ruby or a framework similar to Rails, or some combination of 
@@ -62,6 +65,7 @@ wanted to learn or that would help me land a job.
 
 **Did you experience any hesitation from prospective employers given your 
 training? Did they even care HOW you learned to code?**
+
 Kinda, not really. Basically, there are a ton of opportunities to work in 
 web development so you will be able to find work. Your experience with MKS 
 will make you qualified to contribute to a team and most employers will 
