@@ -1,0 +1,23 @@
+---
+layout: page
+page_name: work
+title: Work
+hero: public/images/rivera-northwall.jpg
+hero_desc: Diego Rivera's Detroit Industry
+---
+
+<section class="work-entries">
+	{% for post in site.categories['work'] %}
+	<article class="work-teaser {%cycle 'left', 'right'%}">
+		<header>
+			<h2 class="work-title">{{post.title}}</h2>
+			<h3 class="work-type">{{post.type}}</h3>
+			{% if post.site_url %}<a class="work-link icon-web" href="{{post.site_url}}"><span>View</span></a>{% endif %}
+		</header>
+		<figure class="responsive-site">
+		    <img src="/public/images/{{post.image}}" alt="{{post.title}} screenshot"/>
+		</figure>
+		{{post.content}}
+	</article>
+	{% endfor %}
+</section>

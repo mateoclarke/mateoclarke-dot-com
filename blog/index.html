@@ -1,0 +1,20 @@
+---
+layout: default
+title: Blog
+---
+
+
+
+ <section class="blog-entries container">
+  {% for post in site.categories['blog'] %}
+  <article class="blog-teaser tearser">
+    <a href="{{ post.url }}">
+      <div class="blog-title">
+        <h2 class="post-title">{{ post.title }}</h2>
+        <h3 class="post-date">{{ post.date | date: "%m/%d/%y"}}</h3>
+      </div>
+
+      </a>
+  </article>
+  {% endfor %}
+</section> 

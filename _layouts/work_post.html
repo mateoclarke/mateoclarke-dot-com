@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<div class="container">
+	<figure class="responsive-site">
+	    <img src="/public/images/{{page.image}}" alt="{{page.title}} screenshot"/>
+	</figure>
+
+	<section class="main">
+		<article class="work-post {%cycle 'left', 'right'%}">
+			<header>
+				<h2 class="work-title">{{page.title}}</h2>
+				<h3 class="work-type">{{page.type}}</h3>
+				{% if page.site_url %}<a class="work-link icon-web" href="{{page.site_url}}"><span>View</span></a>{% endif %}
+			</header>
+			{{content}}
+		</article>
+	</section>
+</div>

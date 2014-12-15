@@ -1,0 +1,52 @@
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Mateo Clarke
+tagline:          Coding for Good
+url:              http://mateoclarke.com
+paginate:         1
+baseurl:          /
+author:
+  name:           Mateo Clarke
+  url:            https://twitter.com/mateoclarke
+  email:          code@mateoclarke.com
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/mateoclarke/poole
+
+# Universal Links
+links:
+- text: Hello!
+  url: /hello/
+  position: top
+- text: Work
+  url: /work/
+  position: top
+- text: Blog
+  url: /blog/
+  # icon: archive
+  position: top
+- text: Email
+  url: mailto:code@mateoclarke.com
+  icon: envelope
+  position: bottom
+# - text: CodePen
+  # url: http://codepen.io/katydecorah/
+  # icon: codepen
+  # position: bottom
+- text: Twitter
+  url: https://twitter.com/mateoclarke
+  icon: twitter
+  position: bottom
+- text: Instagram
+  url: http://instagram.com/mateoclarke
+  icon: instagram
+  position: bottom
+- text: Feed
+  url: /feed.xml
+  icon: rss
+  position: bottom
