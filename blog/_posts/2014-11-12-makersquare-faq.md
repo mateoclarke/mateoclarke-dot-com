@@ -2,7 +2,7 @@
 layout: post
 title: Bootcamp FAQ
 ---
-*I graduated from Makersquare's 3rd cohort. I really enjoyed the three months I spent in their intensive bootcamp and over the past several months, folks have come to me with questions about my experience. Here are some of the most frequent questions I've been asekd.*
+*I graduated from Makersquare's 3rd cohort. I really enjoyed the three months I spent in their immersive programming bootcamp and over the past several months, folks have come to me with questions about my experience. Here are some of the most frequent questions I've been asekd.*
 
 **What was the interview process like?**
 
