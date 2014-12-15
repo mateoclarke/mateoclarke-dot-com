@@ -2,8 +2,9 @@
 layout: post
 title: Bootcamp FAQ
 ---
+*I graduated from Makersquare's 3rd cohort. I really enjoyed the three months I spent in their intensive bootcamp and over the past several months, folks have come to me with questions about my experience. Here are some of the most frequent questions I've been asekd.*
 
-What was the interview process like? 
+**What was the interview process like? **
 I know that for Makersquare specifically, things have changed a lot since I went into the classroom for my first tour & interview over a year ago. Keep that in mind for everything below: the curriculum, interview process, cohort model, etc have all evolved over the course of the past year since I was a student.
 
 First, I was asked questions about my background, basically prompted to 
@@ -25,23 +26,19 @@ topics within the pre-work. Be able to describe why developers use like Git
 and how its related to Github. Know about CSS Floats, Ruby Classes, 
 Javascript variables and string concatenation, etc. I am under the impression they are changing the curriculum to focus on Node.js instead of Rails as a backend. So I would research why the paradigm is shifting towards a full-stack javascript environment.
 
-I have no previous coding experience (other than a bit of codecademy.com). Did you have previous coding experience? 
+**I have no previous coding experience (other than a bit of codecademy.com). Did you have previous coding experience?** 
 My coding experience was very limited before MKS. Because I played music in 
 a couple bands and was involved with some campus organizations that needed 
 a website, I had taught myself how to configuring themed sites with a CMS 
 like Wordpress or Drupal, setting up my server and FTP connection with a 
 hosting service, and coding a one or two pages of static code with HTML and 
 CSS. Very basic content markup stuff. The best resource I can recommend for 
-preparing for MKS is actually prework from another bootcamp called Flatiron 
-(http://prework.flatironschool.com/ <http://prework.flatironschool.com/> 
-). Flatiron open sourced their prework when MKS was still refining their 
+preparing for MKS is actually prework from another bootcamp called [Flatiron](http://prework.flatironschool.com). Flatiron open sourced their prework when MKS was still refining their 
 curriculum in their early days. Starting with the Flatiron Prework gave me 
 a headstart on the MKS prework and it prepared me for the first few weeks 
-of MKS. I would also recommend going to any Meetups that MKS hosts before 
-you start class: http://www.meetup.com/makersquareatx/ 
-<http://www.meetup.com/makersquareatx/> 
+of MKS. I would also recommend going to any [Meetups that MKS](http://www.meetup.com/makersquareatx/ ) hosts before you start class.
 
-How was the 100hrs of pre-class work structured? 
+**How was the 100hrs of pre-class work structured?** 
 It’s broken down into 4 parts: 
 1) Getting set up with Git & Command Line 
 2) HTML & CSS 
@@ -53,8 +50,8 @@ intro, especially paired with other beginning resources you may encounter.
 There is no lack of information available online through other platforms 
 like Codecademy, Treehouse, Code Wars, Code School, etc 
 
-By the end of 12 weeks, where was your confidence level in terms of being 
-an effective web developer? 
+**By the end of 12 weeks, where was your confidence level in terms of being 
+an effective web developer?**
 I was confident that I could get either a front-end focused developer job, 
 coding in HTML, CSS & Javascript/jQuery, a junior backend engineer job 
 working with Ruby or a framework similar to Rails, or some combination of 
@@ -63,8 +60,8 @@ personal/prototype web app from idea to deployment and I had the software
 engineering foundations to teach myself just about any other technology I 
 wanted to learn or that would help me land a job. 
 
-Did you experience any hesitation from prospective employers given your 
-training? Did they even care HOW you learned to code? 
+**Did you experience any hesitation from prospective employers given your 
+training? Did they even care HOW you learned to code?**
 Kinda, not really. Basically, there are a ton of opportunities to work in 
 web development so you will be able to find work. Your experience with MKS 
 will make you qualified to contribute to a team and most employers will 
@@ -86,9 +83,4 @@ whole process and landed at a that company I like to work for. Some of my
 classmates applied to more places and took longer finding the right fit for 
 them. But as long as you have an eager attitude, you’ll land something. 
 
-Let me know if I can clarify on any of these thoughts or if any of this 
-inspires more questions. 
-
-Good luck! 
-Mateo
-…
+*If you have read this please let me know if I can clarify on any of these thoughts or if any of this inspires more questions.*
