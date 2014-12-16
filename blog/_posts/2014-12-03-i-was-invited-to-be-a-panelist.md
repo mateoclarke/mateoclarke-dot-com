@@ -18,5 +18,6 @@ We had a really energetic discussion about how the City of Austin has evolved th
 
 
 Summarizing a nice point made by Mr. Esquibel: 
+
 > Open Government started the goal of **Transparency**. Then the potential for **Innovation** was realized. But Innovation requires **Standards & Quality**. And that is what the City is working on now.
 
