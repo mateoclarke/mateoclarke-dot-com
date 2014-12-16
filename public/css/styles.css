@@ -45,9 +45,11 @@ article.page {
 }
 
 .hero-main {
-	background-image: url('/public/images/rivera-science.jpg');
+	background-image: url('/public/images/rivera-science-bg.jpg');
 	/*background-color: rgba(120, 14, 8, 1);*/
-	height: 320px
+	height: 320px;
+	background-size: cover;
+	background-position: 0% 48%;
 }
 
 .hero-main h2 {
