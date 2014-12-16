@@ -53,9 +53,9 @@ article.page {
 }
 
 .hero-main h2 {
-font-size: 2rem;
-color: #ffffff;
-padding: 1.5rem 0;
+	font-size: 2rem;
+	color: #ffffff;
+	padding: 4.5rem 0 0;
 }
 
 
@@ -89,8 +89,11 @@ padding: 1.5rem 0;
 }
 .feature h3 {
 	margin-top: 70px;
-	color: #fff;
+	color: #000;
 	text-transform: uppercase;
+}
+.feature:hover h3 {
+	color: #fff;
 }
 .first-feature {
 	margin: 0 20px 20px 0;
