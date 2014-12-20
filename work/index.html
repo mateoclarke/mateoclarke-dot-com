@@ -12,7 +12,11 @@ hero_desc: Diego Rivera's Detroit Industry
 		<header>
 			<h2 class="work-title">{{post.title}}</h2>
 			<h3 class="work-type">{{post.type}}</h3>
-			{% if post.site_url %}<a class="work-link icon-web" href="{{post.site_url}}"><span>View</span></a>{% endif %}
+			{% if post.site_url %}
+				<a class="work-link icon-web" href="{{post.site_url}}">
+					<span>View <svg class="icon-link"><use xlink:href="#icon-link"></use></svg></span>
+				</a>
+			{% endif %}
 		</header>
 		<figure class="responsive-site">
 		    <img src="/public/images/{{post.image}}" alt="{{post.title}} screenshot"/>

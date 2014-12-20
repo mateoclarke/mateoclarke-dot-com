@@ -166,6 +166,16 @@ article.page {
 	width: 100%;
 	margin: 0;
 }
+h3.work-type {
+	margin-top: 0;
+	float: left;
+}
+a.work-link {
+	float: right;
+}
+.work-link span {
+	font-family: 'Pacifico', cursive;
+}
 
 /* FOOTER */
 footer {
