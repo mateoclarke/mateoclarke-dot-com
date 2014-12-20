@@ -118,7 +118,7 @@ article.page {
 	text-align: center;
 }
 .feature:hover {
-	background: rgba(120, 14, 8, 1);
+	background: #C03B4A;
 }
 .feature h3 {
 	margin-top: 70px;
@@ -166,4 +166,12 @@ article.page {
 	width: 100%;
 	margin: 0;
 }
+
+/* FOOTER */
+footer {
+	text-align: center;
+}
+.icons-row svg {
+	margin: .5rem;
+} 
 

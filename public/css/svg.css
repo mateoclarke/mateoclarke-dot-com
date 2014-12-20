@@ -1,0 +1,34 @@
+[class^="icon-"], [class*=" icon-"] {
+	display: inline-block;
+	color: #C03B4A; /* red */
+	fill: currentColor;
+	background-color: ;
+}
+.icon-profile {
+	width: 32px;
+	height: 32px;
+}
+.icon-globe {
+	width: 32px;
+	height: 32px;
+}
+.icon-link {
+	width: 32px;
+	height: 32px;
+}
+.icon-mail {
+	width: 32px;
+	height: 32px;
+}
+.icon-twitter {
+	width: 32px;
+	height: 32px;
+}
+.icon-github {
+	width: 32px;
+	height: 32px;
+}
+.icon-file-pdf {
+	width: 32px;
+	height: 32px;
+}
