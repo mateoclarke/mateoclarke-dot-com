@@ -7,9 +7,17 @@ font-family: 'Pacifico', cursive;
 font-family: 'Sanchez', serif;*/
 
 /* TYPOGRAPHY */
+body {
+	font-size: 1em;
+}
+
 .mateo-header {
 	font-family: 'Pacifico', cursive;
 }
+.masthead-title {
+	margin: .3em 0;
+}
+
 .masthead-title a {
 	font-family: 'Sanchez', serif;
 }
@@ -33,7 +41,7 @@ a.nav-link {
 
 /* CONTAINER */
 .container {
-max-width: 50rem;
+	max-width: 50rem;
 }
 
 /* NAV */
@@ -47,6 +55,10 @@ max-width: 50rem;
 .navbar.nav {
 	float: right;
 	list-style: none;
+}
+
+ul.navbar.nav {
+	font-size: 20px;
 }
 
 .navbar.nav li {
@@ -68,6 +80,11 @@ article.page {
 	.work-teaser:nth-of-type(odd) {
 		margin-right: 2%;
 	}
+}
+/* BUTTONS */
+.btn {
+	font-family: 'Pacifico', cursive;
+	font-size: 1.6em;
 }
 
 /* HERO */
@@ -176,6 +193,11 @@ a.work-link {
 }
 .work-link span {
 	font-family: 'Pacifico', cursive;
+}
+
+.work-status {
+	text-align: center;
+	margin: 0 0 20px;
 }
 
 /* FOOTER */
