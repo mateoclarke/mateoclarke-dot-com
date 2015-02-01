@@ -92,7 +92,7 @@ article.page {
 	width: 100%;
 	height: 320px;
 	background-size: cover;
-}
+	}
 
 .hero-main {
 	background-image: url('/public/images/rivera-science-bg.jpg');
@@ -108,15 +108,18 @@ article.page {
 	padding: 4.5rem 0 0;
 }
 
-
 .hero-about {
 	background-position: 0px -64px;
 }
 .hero.hero-work {
-	background-position: 0 75%;
+	background-position: 0 525px;
 }
 .hero-blog {
 	background-position: 0% 84%;
+}
+.parallax {
+	background-attachment: fixed !important;
+
 }
 
 /* IMAGES */
