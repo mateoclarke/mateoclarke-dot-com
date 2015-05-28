@@ -29,11 +29,11 @@ I encourage all job-seekers to make a list of their ideals, and to hesitate befo
 
 - Before the interview, learn about the people that will interview you. Linkedin, Twitter, Github are always helpful. See if the company/team has a github organization with any open source code you can peek into.
 - Ask some questions about the stack, front to back. Ask what tools the team uses. Ask about processes for code review, pair programming, QA, deployment, version control, etc.
-	- *How will I be assigned work, tasks, tickets, bugs? What systems do you use (Basecamp, Jira, Pivtoal, Github Issues, etc)? Who is involved in creating, QAing, and closing these task.*
+	- *How will I be assigned work, tasks, tickets, bugs? What systems do you use (Basecamp, Jira, Pivotal, Github Issues, etc)? Who is involved in creating, QAing, and closing these task.*
 	- *How do you support personal development? Do you subsidize training, books, online courses, or conferences?*
 	
 
-- As about expectations:
+- Ask about expectations:
 	- *How will I receive feedback on my work? How do you measure a job well done?*  
 	- *In a perfect world, describe the type of contributions I'd be making after 3 months, 6 months, 1 year.*
 
