@@ -129,6 +129,10 @@ article.page {
 	width: 33%;
 }
 
+.emoji {
+  display: inline;
+}
+
 /* FRONT PAGE */
 .feature {
 	float: left;
@@ -209,5 +213,5 @@ footer {
 }
 .icons-row svg {
 	margin: .5rem;
-} 
+}
 

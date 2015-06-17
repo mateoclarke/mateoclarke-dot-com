@@ -9,6 +9,8 @@ title: What I Learned Yesterday - Pry wtf
 
 This week, we've kicked off a new development cycle but we are also still QAing our newest release version. So in addition to jumping into some brand new features, I've been bug hunting and bashing.
 
+:bug: :bug: :bug: :bug: :bug: :bug: :bug: :bug: :bug: :bug:
+
 The essential tools for debugging in Javascript & Ruby are the `debugger` keyword for Chrome Dev Tools, and `<% binding.pry %>` for the Rails console. I've been learning a lot with these two tools but I wanted to focus on learning more about Pry. So I watched this conference talk from RailsConf2014.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4hfMUP5iTq8" frameborder="0" allowfullscreen></iframe>
