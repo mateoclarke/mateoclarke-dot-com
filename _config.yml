@@ -25,6 +25,10 @@ kramdown:
   input: GFM
   syntax_highlighter: rouge
 
+# Gems
+gems:
+  - jemoji
+
 # Universal Links
 links:
 - text: Hello!
