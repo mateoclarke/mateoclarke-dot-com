@@ -18,6 +18,13 @@ version:          1.0.0
 github:
   repo:           https://github.com/mateoclarke/poole
 
+# Syntax Highlighting
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
 # Universal Links
 links:
 - text: Hello!

@@ -1,6 +1,6 @@
 # my portfolio
 
-Here lies the repo for my personal site build with **[Jekyll](http://jekyllrb.com)**.
+Here lies the repo for my personal site built with **[Jekyll](http://jekyllrb.com)**.
 
 
 

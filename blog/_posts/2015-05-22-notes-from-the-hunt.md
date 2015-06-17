@@ -4,7 +4,7 @@ title: Notes from the Job Hunt
 ---
 
 
-### This month, I started as a Front End Engineer at AcademicWorks, a scholarship software company. 
+### This month, I started as a Front End Engineer at AcademicWorks, a scholarship software company.
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Remember <a href="https://t.co/eZCtmr1ggB">https://t.co/eZCtmr1ggB</a>?&#10;&#10;After talking to some *awesome* candidates, I&#39;m really excited to have <a href="https://twitter.com/MateoClarke">@MateoClarke</a> joining our team!</p>&mdash; Joshua Cody (@jpcody) <a href="https://twitter.com/jpcody/status/598117627953696768">May 12, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -15,7 +15,7 @@ title: Notes from the Job Hunt
 
 I encountered a wide array of companies, recruiters, coding challenges, anxieties, and frustrations. For three months, I searched and scoured and applied to over 60 companies.
 
-As I was on the hunt, I had four foundational requirements that I tested every opportunity against. 
+As I was on the hunt, I had four foundational requirements that I tested every opportunity against.
 
 1. Programming and designing user experiences with **ŸavaScript** and within a modern stack _(preferably open-source)_.
 2. Choice in **tools** _(like hardware, text editor, libraries, etc)_.
@@ -31,13 +31,13 @@ I encourage all job-seekers to make a list of their ideals, and to hesitate befo
 - Ask some questions about the stack, front to back. Ask what tools the team uses. Ask about processes for code review, pair programming, QA, deployment, version control, etc.
 	- *How will I be assigned work, tasks, tickets, bugs? What systems do you use (Basecamp, Jira, Pivotal, Github Issues, etc)? Who is involved in creating, QAing, and closing these task.*
 	- *How do you support personal development? Do you subsidize training, books, online courses, or conferences?*
-	
+
 
 - Ask about expectations:
-	- *How will I receive feedback on my work? How do you measure a job well done?*  
+	- *How will I receive feedback on my work? How do you measure a job well done?*
 	- *In a perfect world, describe the type of contributions I'd be making after 3 months, 6 months, 1 year.*
 
-- If a company has several open positions: 
+- If a company has several open positions:
 	- *What's the impetus behind these open positions? Is the company/team growing, has there been natural turnover, etc?*
 
 - Learn about the overall state of a team/company.
@@ -45,17 +45,17 @@ I encourage all job-seekers to make a list of their ideals, and to hesitate befo
 	- *What have you, as a company, learned over the past year?*
 	- *On that note, what are some goals fro the team this year?*
 
-- At an agency, or at a company with several clients/projects: 
-	- *What projects are you most proud off and why? What technical decisions, risks, breakthroughs were involved on these projects?*
+- At an agency, or at a company with several clients/projects:
+	- *What projects are you most proud of and why? What technical decisions, risks, breakthroughs were involved on these projects?*
 
 - Learn about the logistical or technical challenges members of the team are facing.
-	- *What's the biggest challenge you are working on solving right now? What problem are you thinking about in traffic on your way home each evening this week?* 
+	- *What's the biggest challenge you are working on solving right now? What problem are you thinking about in traffic on your way home each evening this week?*
 
 
-- This one can be risky but if you have a good feeling about your prospects, it can help seal the deal: 
+- This one can be risky but if you have a good feeling about your prospects, it can help seal the deal:
 	- *What is your biggest hesitation about bringing me onboard? What can I do to ease or address this concern?*
 
-	
+
 ## Job boards:
 
 ### Austin
@@ -73,10 +73,10 @@ I encourage all job-seekers to make a list of their ideals, and to hesitate befo
 -  [Stackoverflow Careers](http://careers.stackoverflow.com/)
 -  [Indeed](http://www.indeed.com/) - [good salary data too](http://www.indeed.com/salary?q1=web+developer&l1=austin%2C+texas&tm=1)
 -  Twitter keywords: [technology] + hiring
-	-  Example: ["angular hiring"](https://twitter.com/search?q=angular%20hiring&src=typd) 
+	-  Example: ["angular hiring"](https://twitter.com/search?q=angular%20hiring&src=typd)
 
 
-##Bonus 
+##Bonus
 Here are some coding prompts I've completed. Overall, I enjoyed the interviews much more when I was asked to build something real (on JSBin, CodePen, or in my free time) as opposed to being quizzed in front of a whiteboard. I was also more successful in those situations.
 
 ![#whiteboard](http://media.giphy.com/media/UwRqlhDoTTg7m/giphy.gif)
