@@ -43,7 +43,7 @@ I encourage all job-seekers to make a list of their ideals, and to hesitate befo
 - Learn about the overall state of a team/company.
 	- *Who are the most recent additions to the team? What qualities in a new hire have worked out well.*
 	- *What have you, as a company, learned over the past year?*
-	- *On that note, what are some goals fro the team this year?*
+	- *On that note, what are some goals for the team this year?*
 
 - At an agency, or at a company with several clients/projects:
 	- *What projects are you most proud of and why? What technical decisions, risks, breakthroughs were involved on these projects?*
@@ -76,7 +76,7 @@ I encourage all job-seekers to make a list of their ideals, and to hesitate befo
 	-  Example: ["angular hiring"](https://twitter.com/search?q=angular%20hiring&src=typd)
 
 
-##Bonus
+## Bonus
 Here are some coding prompts I've completed. Overall, I enjoyed the interviews much more when I was asked to build something real (on JSBin, CodePen, or in my free time) as opposed to being quizzed in front of a whiteboard. I was also more successful in those situations.
 
 ![#whiteboard](http://media.giphy.com/media/UwRqlhDoTTg7m/giphy.gif)
