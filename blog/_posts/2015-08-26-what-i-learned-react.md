@@ -5,52 +5,30 @@ title: What I Learned Yesterday - React vs. jQuery
 
 *Every day at AcademicWorks, the Engineering Team has a Dev Sync where we share something we learned from the day before. Here is what I learned yesterday...*
 
-## What I learned
+## Did you say React?!
 
-There's a javascript framework war going on out there.
+You'll hear comparisons between Knockout vs. Backbone or Angular vs. Ember. There's a javascript framework war going on out there. Now, the newest title contender in the hearts and minds of yavascripters is REACT.
 
-![](public/img/js-war.gif)
+![javascript battle royale]({{ site.baseurl }}public/images/js-war.gif)
 
-A **heredoc** (or [Here document](https://en.wikipedia.org/wiki/Here_document)) is a way to declare a file or a long string inline. One of the advantages to saving a string in a heredoc is that you preserve line breaks, indentation and other white spaces. It also ignores quotations, so if you had a string with quotes in it, they don't have to be escaped.
+It's fun to watch, but I've been hesitant to jump into this battle and pick a side. Frankly, this is because I'm still learning so much about basic javascript patterns. And I'm able to use jQuery to manipulate the DOM and modify my UI. And when I really need it, I've enjoyed learning and using helper libraries like [Underscore](http://underscorejs.org/) or [Leaflet](http://leafletjs.com/) to achieve the baseline goals for a given project.
 
-This is confusing to read:
+But what if the battle isn't between *New Thing* vs. *Other New Thing*? What if the battle is over the fundamental way we interact with the DOM? 
 
-``` ruby
-"<pre>\n  <code>puts \"foobar\"</code>\n<pre>"
-```
+I just completed Shu Uesugi's (aka [@chibicode](https://twitter.com/chibicode)) [React.js Introduction For People Who Know Just Enough jQuery To Get By](http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/) and this paradigm shift became more clear for me.
 
-But this is equivalent and it reads much better.
+## What I Learned
 
-``` ruby
-<<-EOS
-<pre>
-  <code>puts "foobar"</code>
-</pre>
-EOS
-```
+The tutorial compares the tried and true jQuery model of interacting with the DOM through selectors and event handlers (like `$(".item").on("click", doSomething())`) to the new paradigm of how React can make the same changes to the UI by rendering a fresh HTML component anytime state is changed.
 
-_EOS here stands for "end of string". It's a common convention to use "EOS" with heredocs, but it doesn't really matter. Any string after `<<-` is how you are telling the heredoc what to look for and when to terminate itself. Once it encounters "EOS" the second time, the heredoc knows it's reached the... end of the string._
+This is the important takeaway:
 
-In our code base, I encountered this use of a heredoc in our code. We are using a method like `html_code` as a helper method. It's a much prettier way to inject a string of `HTML` while preserving the code indentation we are familiar.
+> In jQuery, you write event handlers which modify the DOM.
+> In React.js, you write event handlers which modify the state. And you write render() to reflect the current state.
 
-``` ruby
-def html_code
-  html_code = <<-HTML
-    <div class="textile-meta">
-      <div class="example">
-        <span>Example Formatting: <strong>*bold*</strong>, <em>_italics_</em></span>
-      </div>
-    </div>
-  HTML
-
-  html_code.html_safe
-end
-```
+![]({{ site.baseurl }}public/images/jquery-style-vs-react-style.png)
 
 
 ## More resources
-- [Wikipedia](https://en.wikipedia.org/wiki/Here_document)
-- [Strip Leading Whitespace from Heredocs in Ruby](http://anti-pattern.com/strip-leading-whitespace-from-heredocs-in-ruby)
-- [Using heredoc for prettier Ruby code](http://makandracards.com/makandra/1675-using-heredoc-for-prettier-ruby-code)
-- [Heredoc and Indent](http://rubyquicktips.com/post/4438542511/heredoc-and-indent)
-- [Ruby's here document mini tutorial](http://log.gmarik.info/2007/12/rubys-here-document-heredoc-mini.html)
+- [Facebook: Official React Tutorial](https://facebook.github.io/react/docs/tutorial.html)
+- [Egghead: Build Your First React.js App](https://egghead.io/series/build-your-first-react-js-application)
