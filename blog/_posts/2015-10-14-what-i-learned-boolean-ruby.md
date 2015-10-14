@@ -19,6 +19,19 @@ But this returns an error: `ArgumentError: comparison of TrueClass with false fa
 
 ## What I Learned
 
+> In Ruby, Boolean values have no natural ordering.
+
+So, it turns out that I was wrong to assume that Ruby knows how to sort booleans. In the language C, false has a smaller value that true. But, the designer(s) of the language probably thought any ordering for booleans would be confusing for developers so it is intentionally left out of the comparison operators<sup href="#link1">1</sup>.
+
+But fortunately, there is a simple trick too allow us to sort by boolean values:
+
+```ruby
+books.sort_by { |book| book.favorite? ? 0 : 1 }
+```
+
+All we do here is covert the true and false values to equivalent Number values which we can sort.
+
 ## More resources
-- [Facebook: Official React Tutorial](https://facebook.github.io/react/docs/tutorial.html)
-- [Egghead: Build Your First React.js App](https://egghead.io/series/build-your-first-react-js-application)
+- [Stackoverflow: sort_by with Boolean in Rails](http://stackoverflow.com/questions/8737111/sort-by-with-boolean-in-rails)
+- <a name="link1">][Stackoverflow: Why doesn't sort or the spaceship (flying saucer) operator (<=>) work on booleans in Ruby?](http://stackoverflow.com/questions/14816131/why-doesnt-sort-or-the-spaceship-flying-saucer-operator-work-on-boolean)</a>
+- [Mark Needham: Sorting by boolean fields](http://www.markhneedham.com/blog/2011/01/08/ruby-sorting-by-boolean-fields/)
